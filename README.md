@@ -58,7 +58,7 @@ Built with Power BI to present actionable insights:
   - Cost Savings by Region
   - Delivery Trends & Delays
 
-📊 [View Power BI Dashboard](https://drive.google.com/file/d/1sFVVK0mqdvYWrtwmaPW8Z8ef2cJ6C6Yl/view?usp=drive_link)
+📊 [View Power BI Dashboard](https://github.com/KiruthikaRamadoss/Procurement_KPI_Analysis/blob/main/PO%20Dasboard.pdf)
 
 ---
 
