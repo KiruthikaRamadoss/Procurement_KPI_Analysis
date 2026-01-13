@@ -40,15 +40,15 @@ The goal of this project is to assess the performance of procurement operations 
   - Cost Savings, Region
 
 📁 Files:
-- `cleaned_procurement_data.csv`
-- `Procurement KPI Analysis Dataset.csv`
-- `supplier_summary.csv`
+- [cleaned_procurement_data.csv](https://github.com/KiruthikaRamadoss/Procurement_KPI_Analysis/blob/main/cleaned_procurement_data.csv)
+- [Procurement KPI Analysis Dataset.csv](https://github.com/KiruthikaRamadoss/Procurement_KPI_Analysis/blob/main/Procurement%20KPI%20Analysis%20Dataset.csv)
+- [supplier_summary.csv](https://github.com/KiruthikaRamadoss/Procurement_KPI_Analysis/blob/main/supplier_summary.csv)
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
-📊 Built with Power BI to present actionable insights:
+Built with Power BI to present actionable insights:
 
 - **KPI Cards**: Total POs, On-Time Delivery %, Cost Savings, Avg Days Past Due
 - **Visuals**:
