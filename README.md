@@ -1,6 +1,6 @@
 # Procurement KPI Analysis & Purchase Order Dashboard
 
-This project leverages Power BI to provide a comprehensive analysis of procurement performance, focusing on supplier reliability, cost savings, purchase order delays, and fulfillment trends. Through a dynamic and interactive dashboard, it delivers data-driven KPIs and actionable insights to help identify inefficiencies, monitor supplier performance, and support strategic procurement decisions.
+This project leverages Power BI to provide a comprehensive analysis of procurement performance of suppliers, focusing on supplier reliability, cost savings, purchase order delays, and fulfillment trends. Through a dynamic and interactive dashboard, it delivers data-driven KPIs and actionable insights to help identify inefficiencies, monitor supplier performance, and support strategic procurement decisions.
 
 ---
 
